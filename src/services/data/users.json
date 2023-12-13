@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0c9aa199-5d7c-491e-bdc6-c7a8b4052e63",
+    "name": "mario",
+    "email": "mario@gmail.com",
+    "passwordHash": "$2b$08$SZ/QInu8gE0U1S7JXoEONOAVEcvLK4fBzmVp.cp.J6Mt8QuBlViUO"
+  },
+  {
+    "id": "b2205506-bd05-495d-9736-898ca24a380a",
+    "name": "Henrique Alexandre",
+    "email": "hhhejeke@gmaim.com",
+    "passwordHash": "$2b$08$1b8Nr6pciWE1QNJ8Gf4HxeTZSA6OT0tu7yZGBs.laeEr5IAKuPwqi"
+  },
+  {
+    "id": "0c092164-546e-423c-a36e-b9afd21d8f35",
+    "name": "jdjjdjkjjd",
+    "email": "hhdnd@gmail.com",
+    "passwordHash": "$2b$08$.f7fLCCOR6ELbNU.ss1gfOoQc6dUUvXWYQrrTBnaCre57CoPxUh0W"
+  },
+  {
+    "id": "d149f208-9cef-459b-99c1-7d0e8035f938",
+    "name": "Nania",
+    "email": "Nania@gmail.com",
+    "passwordHash": "$2b$08$20hyTgQdeP2Y8.oLFrqmBO/h5lfYujAXYQL6pRNi8zCLrwUsdQsAO"
+  },
+  {
+    "id": "480a3780-78e3-4e58-af82-daf3e1ae9fa0",
+    "name": "carlos",
+    "email": "carlos@gmail.com",
+    "passwordHash": "$2b$08$Kn9vxDeIKh520nJkuP8Laus7l9xWibIIUuEaq9pZZIRN7ZgcF8/Ki"
+  },
+  {
+    "id": "9530855d-0477-4279-80a1-b15cdcf762d6",
+    "name": "bia",
+    "email": "bia@gmail.com",
+    "passwordHash": "$2b$08$L030i4sgg8zvbyIuFkF3R.iUF/uC8MDtkQBEObWJxLGM7bN5qKWm."
+  }
+]
